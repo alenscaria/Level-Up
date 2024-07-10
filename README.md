@@ -12,8 +12,8 @@ Personal Development Website
  **Daily Win Tracking:** 🏆
    * Categorize wins into physical, mental, and spiritual well-being
 
-  **Positive Quote Integration:** 😊
-   * Display inspirational quotes daily
+  **Goal Setting** 😊
+   * Weekly & Monthly Goal Setting
 
 **Gamification**: 🎯
    * Award points or badges for completing tasks
